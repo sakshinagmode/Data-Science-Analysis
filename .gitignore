@@ -9,3 +9,7 @@ cleaned_data/
 # Python cache
 __pycache__/
 *.pyc
+
+Clean_Master_Data.csv
+urban_mobility_raw.csv
+*.csv
