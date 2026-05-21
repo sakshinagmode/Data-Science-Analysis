@@ -1,0 +1,11 @@
+# Ignore large data files
+# urban_mobility_raw.csv
+# Clean_Master_Data.csv
+
+# Ignore raw and cleaned data folders
+raw_sources/
+cleaned_data/
+
+# Python cache
+__pycache__/
+*.pyc
